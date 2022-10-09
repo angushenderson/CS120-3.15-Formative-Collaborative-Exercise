@@ -1,0 +1,2 @@
+This is the contact information page.
+This would include contact information for various things relating to things like marketing for the website aswell as things like social media links and email addresses and a submission forum for issues.
